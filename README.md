@@ -6,7 +6,7 @@ Banknote Denomination Recognition
 * Model exported to [PyTorch Script](https://drive.google.com/uc?export=download&id=1q6Yk4zLA1sk0vcFF1m6Z9v5_2_dXSFIj) and deployed as a [Mobile Application](https://github.com/mayhem-am/envision) using Dart and as a [Web Application](https://github.com/mayhem-am/vision) using Render.
 
 # Objective : 
-* Relay INR or USD banknote denomination if valid, ask to retry otherwise
+* Relay INR or USD banknote denomination if valid, retry otherwise
 
 # Goals :
 
