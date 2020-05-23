@@ -6,4 +6,8 @@
 * Accuracy upto 91%
 
 # TODO :
-- [x] 
+- [x] model accuracy upto 90%
+- [x] dataset collection upto a valid amount (>200)
+- [x] mini-batch backpropogation
+- [ ] training without overfitting the currently underfitting model with a larger dataset
+
