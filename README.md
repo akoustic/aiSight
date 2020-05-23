@@ -14,9 +14,9 @@ Banknote Denomination Recognition
 - [x] model accuracy upto 90%
 - [x] accuracy stays unchanged for unbalanced classes
 - [x] perspective warping
-- [] Grad-CAM
-- [] improve accuracy with custom nn and larger dataset
+- [ ] Grad-CAM
+- [ ] improve accuracy with custom nn and larger dataset
 - [x] deploy on Android/iOS
-- [] low bandwidth performance improvement  
+- [ ] low bandwidth performance improvement  
 
 
