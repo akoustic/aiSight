@@ -1,5 +1,5 @@
 # aiSight
-Banknote Denomination Recognition
+Banknote Denomination Recognition for the visually underprivileged
 
 * Machine Learning model using Adam, ReLU, Softmax, Cyclical Learning Rates with SOTA and other Transfer Learning techniques for detection, recognition of valid INR and USD.
 
