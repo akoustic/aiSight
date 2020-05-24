@@ -11,17 +11,17 @@ Banknote Denomination Recognition for the visually underprivileged
 # Inference
 
 * Notched accuracy upto 90%, not bad for a multi-label ResNet-34 classification model
-<img src="outs/2.jpg" width="400" height = "400">
+<img src="outs/2.jpg" width="400" height = "300">
 
 * Trivial INR Softmax out
-<img src="outs/4.jpg" width="400" height = "400">
+<img src="outs/4.jpg" width="400" height = "300">
 
 
 * Trivial USD Softmax out
 <img src="outs/1.jpg" width="400" height = "400">
 
 * F-Beta score - more weight on precision, less on recall
-<img src="outs/5.jpg" width="400" height = "400">
+<img src="outs/5.jpg" width="400" height = "300">
 
 # Goals :
 
