@@ -5,7 +5,7 @@
 * Softmax Classifier
 * Model testing and inference done [locally](https://drive.google.com/open?id=19IunNDU7l65StLmFrnFO4UVlTuzRhCyn) without breaking anything :) 
 
-* Accuracy obtained upto 92% with low loss without overfitting
+* Accuracy obtained upto 92%, low loss, no overfitting
 
 <img src="outs/1.jpg" width="400" height="300" >
 
@@ -15,7 +15,7 @@
 <img src="outs/2.jpg" width="400" height="300" >
 
 
-* Trivial case probabilities
+* Trivial case probabilities <test dataset>
 
 <img src="outs/3.jpg" width="400" height="300" >
 
