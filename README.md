@@ -1,7 +1,7 @@
 # aiSight
 Banknote Denomination Recognition for the visually underprivileged
 
-* Machine Learning model using Adam, ReLU, Softmax, Cyclical Learning Rates with SOTA and other Transfer Learning techniques for detection, recognition of valid INR and USD.
+* Machine Learning model with CLR's, ReLU, Softmax, on Resnet-34 for detection, recognition of valid INR and USD.
 
 * Model exported to [PyTorch Script](https://drive.google.com/uc?export=download&id=1q6Yk4zLA1sk0vcFF1m6Z9v5_2_dXSFIj) and deployed as a [Mobile Application](https://github.com/mayhem-am/envision) using Dart and as a [Web Application](https://github.com/mayhem-am/vision) using Render.
 
